@@ -1,0 +1,28 @@
+{
+  "application_id": "123456789012345678",
+  "name": "My Cool Game",
+  "type": 0,
+  "details": "Doing cool stuff",
+  "state": "In a secret place",
+  "timestamps": {
+    "start": 1710000000,
+    "end": 1710003600
+  },
+  "assets": {
+    "large_image": "my_large_image",
+    "large_text": "This is the large tooltip",
+    "small_image": "my_small_image",
+    "small_text": "Small tooltip here"
+  },
+  "buttons": [
+    {
+      "label": "Visit website",
+      "url": "https://example.com"
+    },
+    {
+      "label": "Another Button",
+      "url": "https://another-link.com"
+    }
+  ],
+  "url": "https://twitch.tv/some_streamer"
+}
